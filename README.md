@@ -20,7 +20,7 @@ Main objective is to design a system to consolidate raw data, maintain data qual
 **Integration** : Integrate ERP and CRM data into a centralized SQL Server data warehouse. Transform and combine the data to provide a unified view for analysis.
 **Scope** : The project focuses on processing the latest available ERP and CRM datasets; data historization is not required.
 **Documentation**:Documentation will support business stakeholders and the analytics team. It will cover key data, processes, and insights.
----
+
 
 ### Analytics & Reporting
 
