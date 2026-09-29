@@ -42,6 +42,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 **▪️Sales Trends**
 
 These insights help stakeholders with enhancing the business performance and decision-making
+
 ---
 
 ## License
