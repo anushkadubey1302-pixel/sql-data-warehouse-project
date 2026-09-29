@@ -15,7 +15,7 @@ Main objective is to design a system to consolidate raw data, maintain data qual
 
 #### Specifications
 
--**Data Sources**: Data is sourced from **ERP and CRM CSV files**. The datasets will be integrated and transformed to build the data warehouse.
+**Data Sources**: Data is sourced from **ERP and CRM CSV files**. The datasets will be integrated and transformed to build the data warehouse.
 -**Data Quality**: Data quality issues will be identified and resolved before analysis.The data will be cleaned and validated to ensure accurate and reliable results.
 -**Integration**: Integrate ERP and CRM data into a centralized SQL Server data warehouse. Transform and combine the data to provide a unified view for analysis.
 -**Scope**: The project focuses on processing the latest available ERP and CRM datasets; data historization is not required.
