@@ -45,12 +45,21 @@ These insights help stakeholders with enhancing the business performance and dec
 
 ---
 
+
 ## License
+
 This project is licensed under the [MIT License](LICENSE).
+
 
 ---
 
+
+
 ## About Me
+
+
 Hello! I am **Anushka Dubey** an MCA graduate exploring **SQL, Data Analytics, and Data Engineering**.
 This project is part of my journey to build practical skills through real-world data projects.
 
+
+---
