@@ -3,7 +3,7 @@
 STORED PROCEDURE: Load Silver Layer (FROM Source To Bronze)
 ===========================================================
 Script Purpose:
-  Checking the Quality of Bronze Layer & performs the ETL (Extract, Transform , Load) to transform the data of 'Bronze' schema & store it into the 'Silver' one.
+  Checking the Quality of Silver Layer & performs the ETL (Extract, Transform , Load) to transform the data of 'Bronze' schema & store it into the 'Silver' one.
   Actions performed:
   - Removing Unwanted Spaces
   - Handle Missing Data
