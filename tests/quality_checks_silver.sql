@@ -6,12 +6,15 @@ Script Purpose:
         This script performs the quality of silver layer after loading the data from bronze layer for data analysis.
         These checks validate consistency,standarization and accuracy of silver layer.
         It includes checks for:
-- String (Unwanted spaces)
-- Null or duplicate primary keys
-- Data Consistency & Standardization
-- Invalid & Out-of-Range Dates
 
+        - String (Unwanted spaces)
+        - Null or duplicate primary keys
+        - Data Consistency & Standardization
+        - Invalid & Out-of-Range Dates
 
+Usage Notes:
+        - Run these checks after loading the data into Silver Layer.
+        - Investigate and resolve any discrepancies found during the checks.
 */
 
 --===================================================================================================================
