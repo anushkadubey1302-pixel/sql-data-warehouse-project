@@ -55,7 +55,7 @@ Everything is for Free!
 - **[Git Repository](https://github.com/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
 - **[Notion](https://www.notion.com/templates/sql-data-warehouse-project):** Get the Project Template from Notion
-
+- **[Notion Project Steps](https://app.notion.com/p/DW-PROJECT-3ea8e55997e98056996ac2b2434ad249?source=copy_link):** Access to All Project Phases and Tasks.
 ---
 
 ### ➡️📶 Analytics & Reporting
