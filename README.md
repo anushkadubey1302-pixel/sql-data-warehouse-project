@@ -45,6 +45,43 @@ Main objective is to design a system to consolidate raw data, maintain data qual
 **▪️Documentation**:Documentation will support business stakeholders and the analytics team. It will cover key data, processes, and insights.
 
 ---
+## 📁 Repository Structure
+
+```text
+sql-data-warehouse-project/
+│
+├── datasets/           # Source CSV files
+│   ├──source_crm
+│   ├──source_erp
+├── docs/                # All the diagrams and layer structures
+│   ├── DATA INTEGRATION FOR BUSINESS LOGIC.drawio
+│   ├── DATA INTEGRATION FOR BUSINESS LOGIC.png
+│   ├── DFD DW.drawio
+│   ├── DFD DW.png
+│   ├── Data Model.png
+│   ├── Data_Architecture.png
+│   ├── Design Data Architecture.drawio
+│   ├── Integration Model.png
+│   ├── data_catalog.md
+│   ├── naming_conventions.md
+│   ├── star schema.drawio
+├── scripts/            # Project scripts
+│   ├── bronze
+|          ├── ddl_bronze.sql
+|          ├── sp_load_bronze.sql
+│   ├── gold
+|          ├── ddl_gold.sql
+│   └── silver
+|          ├── ddl_silver.sql
+|          ├── sp_load_silver.sql
+|    ├── init_database.sql
+├── tests/
+|          ├── quality_checks_gold.sql
+|          ├── quality_checks_silver.sql
+├── README.md           # Project documentation
+└── LICENSE             # Project license
+```
+
 
 ## 🛠️ Important Links & Tools:
 
