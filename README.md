@@ -55,31 +55,31 @@ sql-data-warehouse-project/
 │   ├──source_erp
 ├── docs/                # All the diagrams and layer structures
 │   ├── DATA INTEGRATION FOR BUSINESS LOGIC.drawio
-│   ├── DATA INTEGRATION FOR BUSINESS LOGIC.png
-│   ├── DFD DW.drawio
-│   ├── DFD DW.png
-│   ├── Data Model.png
-│   ├── Data_Architecture.png
-│   ├── Design Data Architecture.drawio
-│   ├── Integration Model.png
-│   ├── data_catalog.md
-│   ├── naming_conventions.md
-│   ├── star schema.drawio
+│   └── DATA INTEGRATION FOR BUSINESS LOGIC.png
+│   └── DFD DW.drawio
+│   └── DFD DW.png
+│   └── Data Model.png
+│   └── Data_Architecture.png
+│   └── Design Data Architecture.drawio
+│   └── Integration Model.png
+│   └── data_catalog.md
+│   └── naming_conventions.md
+│   └── star schema.drawio
 ├── scripts/            # Project scripts
 │   ├── bronze
-|          ├── ddl_bronze.sql
-|          ├── sp_load_bronze.sql
+|       ├── ddl_bronze.sql
+|       └── sp_load_bronze.sql
 │   ├── gold
-|          ├── ddl_gold.sql
-│   └── silver
-|          ├── ddl_silver.sql
-|          ├── sp_load_silver.sql
+|       ├── ddl_gold.sql
+│   ├── silver
+|       ├── ddl_silver.sql
+|       └── sp_load_silver.sql
 |    ├── init_database.sql
 ├── tests/
-|          ├── quality_checks_gold.sql
-|          ├── quality_checks_silver.sql
+|     └── quality_checks_gold.sql
+|     └── quality_checks_silver.sql
 ├── README.md           # Project documentation
-└── LICENSE             # Project license
+├── LICENSE             # Project license
 ```
 
 
